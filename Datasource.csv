@@ -3,3 +3,4 @@ source,url,note,action
 redis/redis,https://redis.io/docs/,note,action
 https://www.apideck.com/file-storage-api,https://www.apideck.com/connectors/box,Push and pull Box data,action
 https://www.apideck.com/file-storage-api,https://www.apideck.com/connectors/dropbox,Push and pull dropbox data,action
+https://www.apideck.com/file-storage-api,https://www.apideck.com/connectors/google-drive,Push and pull google-drive data,action
