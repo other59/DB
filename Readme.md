@@ -1,6 +1,7 @@
 # Redis
 - https://selectel.ru/services/cloud/managed-databases/redis/
 - https://selectel.ru/prices/calculator/
+- https://cloud.ru/products/evolution-managed-redis
 # [dbdb](https://dbdb.io/db/frostdb)
 # [developer marklogic](https://developer.marklogic.com)
 - file:///Volumes/Public/Apple/gd_html.html#bsh
