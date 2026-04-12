@@ -1,4 +1,4 @@
-# Redis
+# Data
 - https://selectel.ru/services/cloud/managed-databases/redis/
 - https://selectel.ru/prices/calculator/
 - https://cloud.ru/products/evolution-managed-redis
