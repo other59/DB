@@ -4,6 +4,7 @@
 - https://cloud.ru/products/evolution-managed-redis
 - [opensearch](https://chat.deepseek.com/share/tjgttsyufk7olnijqa)
 - [evolution-managed-trino](https://cloud.ru/products/evolution-managed-trino)
+- [ObjectStorage](https://cloud.ru/search?query=Object%20Storage&source=all)
 # [dbdb](https://dbdb.io/db/frostdb)
 # [developer marklogic](https://developer.marklogic.com)
 - file:///Volumes/Public/Apple/gd_html.html#bsh
