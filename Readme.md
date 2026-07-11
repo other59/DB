@@ -1,6 +1,7 @@
 # cloud
 - https://docs.pingcap.com/tidbcloud/tidb-cloud-intro/
 # Data
+- https://chat.deepseek.com/share/inj1iyktz6xhs2sakp
 - [selectel.redis](https://selectel.ru/services/cloud/managed-databases/redis/)
 - https://selectel.ru/prices/calculator/
 - https://cloud.ru/products/evolution-managed-redis
